@@ -1,3 +1,3 @@
-module github.com/nariet/myutils/v2
+module github.com/nariet/myutils/v3
 
 go 1.25.4
